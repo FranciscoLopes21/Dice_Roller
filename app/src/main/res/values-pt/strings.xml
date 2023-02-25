@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lançador de dados</string>
+    <string name="roll_dice">Lançar Dados</string>
+    <string name="roll">Lançar</string>
+</resources>
